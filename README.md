@@ -16,5 +16,5 @@
 
 ## Links
 - E-mail - isakggong@gmail.com
-- Blog - 
+- Blog - 준비중
 - GitHub - https://github.com/Isak-toast
