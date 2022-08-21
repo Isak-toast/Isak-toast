@@ -16,5 +16,5 @@
 
 ## Links
 - E-mail - isakggong@gmail.com
-- Blog - https://dnight.tistory.com
+- Blog - 
 - GitHub - https://github.com/Isak-toast
