@@ -11,7 +11,8 @@
 잘 부탁드립니다.
 
 ## Career
-- dnle
+- 위드로봇 : 2년 근무 / 임베디드 응용 SW 및 딥러닝 모델 학습
+- 현재 SSAFY 교육생
 
 ## Links
 - E-mail - isakggong@gmail.com
