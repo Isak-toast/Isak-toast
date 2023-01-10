@@ -5,8 +5,7 @@
 삼성청년SW아카데미에서 웹 기술을 배우며 백엔드 및 프론트엔드에 대한 이해도를 높였고, 현재에도 웹 기술 기반으로 소셜 미디어 관련 프로젝트를 진행중입니다. 
 
 # 🔎 Profile
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
+---
 
 ### 직무관련 경험
 
@@ -35,8 +34,7 @@ SQLD 취득 2022.12
 ### 기타
 
 # ⚒️ Skills
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
+---
 
 **주력 언어**
 
@@ -83,6 +81,7 @@ SQLD 취득 2022.12
     협업 메시징 앱 사용 경험    
 
 # 👋 Contact
+---
 - E-mail - isakggong@gmail.com
 - Blog - 준비중
 - GitHub - https://github.com/Isak-toast
