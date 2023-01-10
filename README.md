@@ -35,49 +35,38 @@ SQLD 취득 2022.12
 
 # ⚒️ Skills
 ---
-
 **주력 언어**
 
 - **Python / 중**
-    
     자동화 프로그램 경험 보유
-    
     데이터 차트 및 그래프 활용능력 보유
     
 - **C++ / 중**
-    
     센서 제어 SW 구현 가능
-    
     OpenCV 영상 처리 알고리즘으로 이미지 필터링 가능
     
 - **Java / 중**
-    
     스프링 프레임워크를 사용한 웹 프로젝트 구현
     
 
 **사용가능 기술**
 
 - **Vue.js**
-    
     웹 프로젝트 구현 가능
     
 - **Spring**
-    
     웹 어플리케이션 서버 제작 구현
     
 - **MySQL, Oracle**
-    
     MyBatis 이용한 서버 DB 연결 및 쿼리 생성
     
 
 **협업 Tools**
 
 - **Git**
-    
     프로젝트 버전 관리 및 기록 
     
 - Slack
-   
     협업 메시징 앱 사용 경험    
 
 # 👋 Contact
@@ -94,6 +83,9 @@ SQLD 취득 2022.12
 ## Career
 - 위드로봇 : 2년 근무 / 임베디드 응용 SW 및 딥러닝 모델 학습
 - 현재 SSAFY 교육생
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isak-toast)](https://github.com/anuraghazra/github-readme-stats)
 
