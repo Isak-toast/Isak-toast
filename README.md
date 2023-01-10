@@ -5,7 +5,6 @@
 삼성청년SW아카데미에서 웹 기술을 배우며 백엔드 및 프론트엔드에 대한 이해도를 높였고, 현재에도 웹 기술 기반으로 소셜 미디어 관련 프로젝트를 진행중입니다. 
 
 # 🔎 Profile
----
 ## 직무관련 경험
 
 • ETRI AI 응용 / Firmware 교육 2019.6~2019.9
@@ -26,7 +25,6 @@ SQLD 취득 2022.12
 ## 기타
 
 # ⚒️ Skills
----
 **주력 언어**
 
 - **Python / 중**
@@ -62,7 +60,6 @@ SQLD 취득 2022.12
     협업 메시징 앱 사용 경험    
 
 # 👋 Contact
----
 - E-mail - isakggong@gmail.com
 - Blog - 준비중
 - GitHub - https://github.com/Isak-toast
