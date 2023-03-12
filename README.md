@@ -9,8 +9,6 @@
 
 • ETRI AI 응용 / Firmware 교육 2019.6~2019.9
 
-• 위드로봇 근무 2020.01 ~ 2022.01
-
 • 삼성청년SW아카데미 Web Track 2022.7~현재
 
 ### 학력
@@ -55,7 +53,6 @@ SQLD 취득 2022.12
 
 ## Career
 - 위드로봇 : 2년 근무 / 임베디드 응용 SW 및 딥러닝 모델 학습
-- 현재 SSAFY 교육생
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isak-toast)](https://github.com/anuraghazra/github-readme-stats)
