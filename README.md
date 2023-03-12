@@ -1,8 +1,8 @@
 ## 안녕하세요.
 
-카메라 영상처리 분야 임베디드 SW 개발자로 2년 직무 경험이 있습니다.
+임베디드 SW 개발자로 2년 직무 경험이 있습니다.
 
-삼성청년SW아카데미에서 웹 기술을 배우며 백엔드 및 프론트엔드에 대한 이해도를 높였고, 현재에도 웹 기술 기반으로 소셜 미디어 관련 프로젝트를 진행중입니다. 
+삼성청년SW아카데미에서 웹, 클라우드 등 다양한 기술을 배우며 개발하고 있습니다.
 
 # 🔎 Profile
 ### 직무관련 경험
@@ -39,41 +39,23 @@ SQLD 취득 2022.12
     스프링 프레임워크를 사용한 웹 프로젝트 구현
     
 
-**사용가능 기술**
-
-- **Vue.js**
-    웹 프로젝트 구현 가능
-    
-- **Spring**
-    웹 어플리케이션 서버 제작 구현
-    
-- **MySQL, Oracle**
-    MyBatis 이용한 서버 DB 연결 및 쿼리 생성
-    
-
 **협업 Tools**
 
 - **Git**
     프로젝트 버전 관리 및 기록 
     
-- Slack
-    협업 메시징 앱 사용 경험    
+- **Jira**
+    스프린트 백로그 관리
 
 # 👋 Contact
 - E-mail - isakggong@gmail.com
 - Blog - 준비중
 - GitHub - https://github.com/Isak-toast
 
-## Tech Stack
-- Vue.js
-- Spring + MySQL(Mybatis)
-
 
 ## Career
 - 위드로봇 : 2년 근무 / 임베디드 응용 SW 및 딥러닝 모델 학습
 - 현재 SSAFY 교육생
-
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isak-toast)](https://github.com/anuraghazra/github-readme-stats)
