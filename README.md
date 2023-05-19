@@ -54,7 +54,7 @@ SQLD 취득 2022.12
 ## Career
 - 위드로봇 : 2년 근무 / 임베디드 응용 SW 및 딥러닝 모델 학습
 
-![COBBY_BADGE](https://cobby-play.com/api/user/badge/Isak-toast)
+![COBBY_BADGE](https://cobby-play.com/api/user/badge/Isak-toast/theme=2)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isak-toast)](https://github.com/anuraghazra/github-readme-stats)
 
