@@ -2,7 +2,7 @@
 
 임베디드 SW 개발자로 2년 직무 경험이 있습니다.
 
-삼성청년SW아카데미에서 웹, 클라우드 등 다양한 기술을 배우며 개발하고 있습니다.
+삼성청년SW아카데미에서 웹, 클라우드 등 다양한 플랫폼에서 사용자 친화적인 서비스를 개발합니다.
 
 # 🔎 Profile
 ### 직무관련 경험
@@ -41,7 +41,7 @@
 **협업 Tools**
 
 - **Git**
-    프로젝트 버전 관리 및 기록 
+    프로젝트 버전 관리 및 기록
     
 - **Jira**
     스프린트 백로그 관리
@@ -54,8 +54,6 @@
 
 ## Career
 - 위드로봇 : 2년 근무 / 임베디드 응용 SW 및 딥러닝 모델 학습
-
-![COBBY_BADGE](https://cobby-play.com/api/user/badge/Isak-toast?theme=2)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isak-toast)](https://github.com/anuraghazra/github-readme-stats)
 
