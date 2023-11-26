@@ -7,13 +7,13 @@
 # 🔎 Profile
 ### 직무관련 경험
 
-• ETRI AI 응용 / Firmware 교육 2019.6~2019.9
+• ETRI AI 응용 / Firmware 교육 2019.06~2019.09
 
-• 삼성청년SW아카데미 Web Track 2022.7~현재
+• 삼성청년SW아카데미 Web Track 2022.07~2023.07
 
 ### 학력
 
-서경대학교 전자공학과 전공 / 컴퓨터과학과 부전공  2013.3 - 2020.02
+서경대학교 전자공학과 전공 / 컴퓨터과학과 부전공  2013.03 - 2020.02
 
 ### 수상경력/자격증
 
@@ -48,11 +48,11 @@
 
 # 👋 Contact
 - E-mail - isakggong@gmail.com
-- Blog - 준비중
-- GitHub - https://github.com/Isak-toast
+- Notion - https://citrine-giant-073.notion.site/Embedded-SW-Developer-Portfolio-c4342cf6526649aba89de7fdef644867?pvs=4
 
 
 ## Career
+- 코난테크놀로지 : 3개월 단기 / AI 프레임워크 개발 
 - 위드로봇 : 2년 근무 / 임베디드 응용 SW 및 딥러닝 모델 학습
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isak-toast)](https://github.com/anuraghazra/github-readme-stats)
