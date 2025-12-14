@@ -1,51 +1,9 @@
 ## 안녕하세요.
 
-SW 개발자 김이삭입니다.
-
-임베디드, 웹 개발 경험있습니다.
-
-# 🔎 Profile
-### 직무관련 경험
-
-• ETRI AI 응용 / Firmware 교육 2019.06~2019.09
-
-• 삼성청년SW아카데미 Web Track 2022.07~2023.07
-
-### 학력
-
-서경대학교 전자공학과 전공 / 컴퓨터과학과 부전공  2013.03 - 2020.02
-
-### 수상경력/자격증
-
-- 정보처리기사 취득 2022.11
-- SQLD 취득 2022.12
-- OPIc IM2 등급  2022.12
-
-### 기타
-
-# ⚒️ Skills
-**주력 언어**
-
-- **Python / 중**
-    자동화 프로그램 경험 보유
-    데이터 차트 및 그래프 활용능력 보유
-    
-- **C++ / 중**
-    센서 제어 SW 구현 가능
-    OpenCV 영상 처리 알고리즘으로 이미지 필터링 가능
-    
-
-**협업 Tools**
-
-- **Git**
-    프로젝트 버전 관리 및 기록
-    
-- **Jira**
-    스프린트 백로그 관리
+SW 개발 잡부 김이삭입니다.
 
 # 👋 Contact
 - E-mail - isakggong@gmail.com
-- Notion - https://citrine-giant-073.notion.site/Embedded-SW-Developer-Portfolio-c4342cf6526649aba89de7fdef644867?pvs=4
 
 
 ## Career
@@ -60,4 +18,4 @@ SW 개발자 김이삭입니다.
 
 
 ----
-updated 2023.03.13
+updated 2025.12.14
