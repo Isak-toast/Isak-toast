@@ -1,6 +1,7 @@
 ## 안녕하세요.
 
-SW 개발 잡부 김이삭입니다.
+김이삭입니다.
+SW 개발하고 있어요.
 
 # 👋 Contact
 - E-mail - isakggong@gmail.com
